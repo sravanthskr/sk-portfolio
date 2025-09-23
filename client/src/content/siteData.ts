@@ -8,9 +8,9 @@ export const personalInfo = {
 };
 
 export const socialLinks = [
-  { platform: 'GitHub', url: 'https://github.com/sravanthkumar', label: 'GitHub', iconName: 'Github' },
-  { platform: 'LinkedIn', url: 'https://linkedin.com/in/sravanthkumar', label: 'LinkedIn', iconName: 'Linkedin' },
-  { platform: 'Behance', url: 'https://behance.net/sravanthkumar', label: 'Behance', iconName: 'Behance' },
+  { platform: 'GitHub', url: 'https://github.com/sravanthskr', label: 'GitHub', iconName: 'Github' },
+  { platform: 'LinkedIn', url: 'https://linkedin.com/in/sravanth-kumar-sanam', label: 'LinkedIn', iconName: 'Linkedin' },
+  { platform: 'Behance', url: 'https://www.behance.net/sravanthkumar1', label: 'Behance', iconName: 'Behance' },
 ];
 
 export const heroContent = {
