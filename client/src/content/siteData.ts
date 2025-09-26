@@ -4,7 +4,7 @@ export const personalInfo = {
     last: "Kumar",
   },
   email: "sravanthkumarrr@gmail.com",
-  tagline: "Crafting digital experiences with modern technology and creative vision. Passionate about building solutions that make a difference.",
+  tagline: "Every bug I face becomes the path to understanding; every challenge, a lesson in clarity.",
 };
 
 export const socialLinks = [
